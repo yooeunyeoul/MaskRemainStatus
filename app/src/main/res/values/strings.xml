@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaskAlarm</string>
+
+    <string name="kakao_map_api_key">4ea69fdd0b0b3f454145e860a6ae5762</string>
+</resources>
