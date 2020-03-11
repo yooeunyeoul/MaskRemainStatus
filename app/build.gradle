@@ -34,5 +34,9 @@ dependencies {
 
     //Logger 로그 찍어주는 라이브러리
     implementation 'com.orhanobut:logger:2.2.0'
-    implementation files('libs\\libDaumMapAndroid.jar')
+
+    // 네이버 지도 SDK
+    implementation 'com.naver.maps:map-sdk:3.3.0'
+
+
 }
